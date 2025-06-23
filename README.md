@@ -1,1 +1,1 @@
-# devops_practice
+# DevOps Practice Repository
